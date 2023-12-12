@@ -17,3 +17,4 @@ Currently studying Full Stack Web Development at Business College Helsinki.
 ![VSCode](https://img.shields.io/badge/-VSCode-%23164949?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-%23164949?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23164949?style=flat-square&logo=github)
+![MongoBD](https://img.shields.io/badge/-MongoDB-%23164949?style=flat-square&logo=mongodb)
