@@ -20,3 +20,7 @@ Currently studying Full Stack Web Development at Business College Helsinki.
 ![VSCode](https://img.shields.io/badge/-VSCode-%23164949?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-%23164949?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23164949?style=flat-square&logo=github)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aj-kivimaki/)
