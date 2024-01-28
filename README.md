@@ -1,8 +1,10 @@
 # Welcome!
 
-Hi, I'm Atte.
+Hi, I'm Atte Kivimäki.
 
-Currently studying Full Stack Web Development at Business College Helsinki.
+I've been interested in programming ever since I built my first QBasic project as a kid -- a quiz about song lyrics. However, my music career took priority.
+
+Now, as a career-changing adult, I am currently studying Full Stack Web Development at Business College Helsinki and am on the lookout for an internship position.
 
 ---
 
