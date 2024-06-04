@@ -1,10 +1,10 @@
 # Welcome!
 
-Hi, I'm Atte Kivimäki.
+Hi, I'm Atte.
 
 I've been interested in programming ever since I built my first QBasic project as a kid - a quiz about song lyrics. However, my music career took priority.
 
-Now, as an adult career changer, I am currently studying Full Stack Web Development at Business College Helsinki and am on the lookout for an internship position.
+Now, as an adult career changer, I am currently doing an internship as part of my Full Stack Web Development studies at Business College Helsinki.
 
 ---
 
