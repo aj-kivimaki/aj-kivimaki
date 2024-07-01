@@ -20,7 +20,6 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![Node.js](https://img.shields.io/badge/-Node.js-%23164949?style=flat-round&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23164949?style=flat-round&logo=express)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23164949?style=flat-round&logo=prisma)
-![Vite](https://img.shields.io/badge/-Vite-%23164949?style=flat-round&logo=vite)
 
 > ### Cloud
 ![Amazon](https://img.shields.io/badge/-Amazon-%23164949?style=flat-round&logo=amazon)
@@ -50,6 +49,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-%23164949?style=flat-round&logo=githubactions)
 ![VSCode](https://img.shields.io/badge/-VSCode-%23164949?style=flat-round&logo=visualstudiocode)
 ![Npm](https://img.shields.io/badge/-Npm.js-%23164949?style=flat-round&logo=npm)
+![Vite](https://img.shields.io/badge/-Vite-%23164949?style=flat-round&logo=vite)
 ![ESLint](https://img.shields.io/badge/-ESLint-%23164949?style=flat-round&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23164949?style=flat-round&logo=prettier)
 ![Jira](https://img.shields.io/badge/-Jira-%23164949?style=flat-round&logo=jira)
