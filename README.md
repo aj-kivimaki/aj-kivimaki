@@ -29,7 +29,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![CloudFront](https://img.shields.io/badge/-CloudFront-%23164949?style=flat-round)
 ![Lambda](https://img.shields.io/badge/-Lambda-%23164949?style=flat-round)
 ![IAM](https://img.shields.io/badge/-IAM-%23164949?style=flat-round)
-![APIGateway](https://img.shields.io/badge/-Cognito-%23164949?style=flat-round)
+![APIGateway](https://img.shields.io/badge/-APIGateway-%23164949?style=flat-round)
 ![RDS](https://img.shields.io/badge/-RDS-%23164949?style=flat-round)
 ![Amplify](https://img.shields.io/badge/-Amplify-%23164949?style=flat-round)
 
