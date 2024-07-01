@@ -36,7 +36,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![Firebase](https://img.shields.io/badge/-Firebase-%23164949?style=flat-round&logo=firebase)
 ![Authentication](https://img.shields.io/badge/-Authentication-%23164949?style=flat-round)
 ![Storage](https://img.shields.io/badge/-Storage-%23164949?style=flat-round)
-![Firestore](https://img.shields.io/badge/-Firebase-%23164949?style=flat-round)
+![Firestore](https://img.shields.io/badge/-Firestore-%23164949?style=flat-round)
 
 > ### Database
 
