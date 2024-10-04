@@ -30,6 +30,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![APIGateway](https://img.shields.io/badge/-APIGateway-%23164949?style=flat-round)
 ![RDS](https://img.shields.io/badge/-RDS-%23164949?style=flat-round)
 ![Amplify](https://img.shields.io/badge/-Amplify-%23164949?style=flat-round)
+![AWS CLI](https://img.shields.io/badge/-AWS-CLI-%23164949?style=aws-cli)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-%23164949?style=flat-round&logo=firebase)
 ![Authentication](https://img.shields.io/badge/-Authentication-%23164949?style=flat-round)
@@ -46,6 +47,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![Git](https://img.shields.io/badge/-Git-%23164949?style=flat-round&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23164949?style=flat-round&logo=github)
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-%23164949?style=flat-round&logo=githubactions)
+![Docker](https://img.shields.io/badge/-Docker-%23164949?style=flat-round&logo=docker)
 ![VSCode](https://img.shields.io/badge/-VSCode-%23164949?style=flat-round&logo=visualstudiocode)
 ![Npm](https://img.shields.io/badge/-Npm.js-%23164949?style=flat-round&logo=npm)
 ![Vite](https://img.shields.io/badge/-Vite-%23164949?style=flat-round&logo=vite)
