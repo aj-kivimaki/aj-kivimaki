@@ -40,6 +40,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%23164949?style=flat-round&logo=mysql)
 ![MongoBD](https://img.shields.io/badge/-MongoDB-%23164949?style=flat-round&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-%23164949?style=flat-round&logo=redis)
 
 > ### Tools
 
