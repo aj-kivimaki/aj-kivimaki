@@ -55,7 +55,7 @@ Now, as an adult career changer, I am currently on an internship as part of my F
 ![Prettier](https://img.shields.io/badge/-Prettier-%23164949?style=flat-round&logo=prettier)
 ![Jira](https://img.shields.io/badge/-Jira-%23164949?style=flat-round&logo=jira)
 ![MicroSoftTeams](https://img.shields.io/badge/-MicroSoftTeams-%23164949?style=flat-round&logo=microsoftteams)
-![SonarCloud](https://img.shields.io/badge/-SounarCloud-%23164949?style=flat-round&logo=sonarcloud)
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-%23164949?style=flat-round&logo=sonarcloud)
 ![Jest](https://img.shields.io/badge/-Jest-%23164949?style=flat-round&logo=jest)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23164949?style=flat-round&logo=prisma)
 ![Postman](https://img.shields.io/badge/-Postman-%23164949?style=flat-round&logo=postman)
