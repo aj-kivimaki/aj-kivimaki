@@ -4,7 +4,7 @@ Hi, I'm Atte.
 
 I've been interested in programming ever since I built my first QBasic project as a kid - a quiz about song lyrics. However, my music career took priority.
 
-Now, as an adult career changer, I am currently on an internship as part of my Full Stack Web Development studies at Business College Helsinki.
+Having completed my internship as part of my Full Stack Web Development studies at Business College Helsinki, I am now actively seeking opportunities in the IT field.
 
 ---
 
