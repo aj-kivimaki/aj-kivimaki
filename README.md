@@ -14,8 +14,7 @@ I enjoy researching solutions, breaking problems into steps, and delivering feat
 ### **Frontend**
 - React, TypeScript  
 - React Router, React Query, Zustand  
-- CSS Modules, Vite  
-- i18next (FI/EN)
+- CSS Modules, Vite
 
 ### **Backend**
 - Node.js, Express  
@@ -25,7 +24,7 @@ I enjoy researching solutions, breaking problems into steps, and delivering feat
 - Supabase (Auth + DB)
 
 ### **Cloud & DevOps**
-- AWS (Cognito, RDS, Lambda, S3/CloudFront)  
+- AWS (Cognito, RDS, Lambda, S3, CloudFront)  
 - Netlify  
 - GitHub Actions  
 - Docker
