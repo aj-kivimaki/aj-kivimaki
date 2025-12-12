@@ -1,66 +1,86 @@
-# Welcome!
+# 👋 Hi, I’m Atte Kivimäki
 
-Hi, I'm Atte.
+### Full Stack Developer | Musician | Finland  
+### 🇫🇮 Finnish & English | 🧠 Continuous learner | 🌐 Open to remote & all Finland
 
-I've been interested in programming ever since I built my first QBasic project as a kid - a quiz about song lyrics. However, my music career took priority.
+I’m a career-changer turned web developer who loves building meaningful digital tools — clean interfaces, reliable backends, and smooth user experiences. I’ve spent the last 3 years learning, building, and collaborating on full-stack projects using modern JavaScript, TypeScript, and cloud technologies.
 
-Having completed my internship as part of my Full Stack Web Development studies at Business College Helsinki, I am now actively seeking opportunities in the IT field.
+I enjoy researching solutions, breaking problems into steps, and delivering features that feel polished and intuitive.
+
+---
+
+## 🚀 Tech Stack
+
+### **Frontend**
+- React, TypeScript  
+- React Router, React Query, Zustand  
+- CSS Modules, Vite  
+- i18next (FI/EN)
+
+### **Backend**
+- Node.js, Express  
+- REST APIs  
+- Prisma ORM  
+- SQL (MySQL / PostgreSQL)  
+- Supabase (Auth + DB)
+
+### **Cloud & DevOps**
+- AWS (Cognito, RDS, Lambda, S3/CloudFront)  
+- Netlify  
+- GitHub Actions  
+- Docker
+
+### **Testing & Quality**
+- Cypress  
+- Vitest  
+- ESLint, Prettier  
+- Husky, lint-staged
 
 ---
 
-> ### Tech Stack
+## 🌟 Featured Projects
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23164949?style=flat-round&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-%23164949?style=flat-round&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23164949?style=flat-round&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23164949?style=flat-round&logo=typescript)
-![React](https://img.shields.io/badge/-React-%23164949?style=flat-round&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-%23164949?style=flat-round&logo=redux)
-
-![Node.js](https://img.shields.io/badge/-Node.js-%23164949?style=flat-round&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-%23164949?style=flat-round&logo=express)
-
-> ### Cloud
-![Amazon](https://img.shields.io/badge/-Amazon-%23164949?style=flat-round&logo=amazon)
-![Cognito](https://img.shields.io/badge/-Cognito-%23164949?style=flat-round)
-![S3](https://img.shields.io/badge/-S3-%23164949?style=flat-round)
-![CloudFront](https://img.shields.io/badge/-CloudFront-%23164949?style=flat-round)
-![Lambda](https://img.shields.io/badge/-Lambda-%23164949?style=flat-round)
-![IAM](https://img.shields.io/badge/-IAM-%23164949?style=flat-round)
-![APIGateway](https://img.shields.io/badge/-APIGateway-%23164949?style=flat-round)
-![RDS](https://img.shields.io/badge/-RDS-%23164949?style=flat-round)
-![Amplify](https://img.shields.io/badge/-Amplify-%23164949?style=flat-round)
-
-![Firebase](https://img.shields.io/badge/-Firebase-%23164949?style=flat-round&logo=firebase)
-![Authentication](https://img.shields.io/badge/-Authentication-%23164949?style=flat-round)
-![Storage](https://img.shields.io/badge/-Storage-%23164949?style=flat-round)
-![Firestore](https://img.shields.io/badge/-Firestore-%23164949?style=flat-round)
-
-> ### Database
-
-![MySQL](https://img.shields.io/badge/-MySQL-%23164949?style=flat-round&logo=mysql)
-![MongoBD](https://img.shields.io/badge/-MongoDB-%23164949?style=flat-round&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-%23164949?style=flat-round&logo=redis)
-
-> ### Tools
-
-![Git](https://img.shields.io/badge/-Git-%23164949?style=flat-round&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-%23164949?style=flat-round&logo=github)
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-%23164949?style=flat-round&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-%23164949?style=flat-round&logo=docker)
-![VSCode](https://img.shields.io/badge/-VSCode-%23164949?style=flat-round&logo=visualstudiocode)
-![Npm](https://img.shields.io/badge/-Npm.js-%23164949?style=flat-round&logo=npm)
-![Vite](https://img.shields.io/badge/-Vite-%23164949?style=flat-round&logo=vite)
-![ESLint](https://img.shields.io/badge/-ESLint-%23164949?style=flat-round&logo=eslint)
-![Prettier](https://img.shields.io/badge/-Prettier-%23164949?style=flat-round&logo=prettier)
-![Jira](https://img.shields.io/badge/-Jira-%23164949?style=flat-round&logo=jira)
-![MicroSoftTeams](https://img.shields.io/badge/-MicroSoftTeams-%23164949?style=flat-round&logo=microsoftteams)
-![SonarCloud](https://img.shields.io/badge/-SonarCloud-%23164949?style=flat-round&logo=sonarcloud)
-![Jest](https://img.shields.io/badge/-Jest-%23164949?style=flat-round&logo=jest)
-![Prisma](https://img.shields.io/badge/-Prisma-%23164949?style=flat-round&logo=prisma)
-![Postman](https://img.shields.io/badge/-Postman-%23164949?style=flat-round&logo=postman)
-![Swagger](https://img.shields.io/badge/-Swagger-%23164949?style=flat-round&logo=swagger)
+### 🟣 **J. Partynen — Artist Website + Custom CMS (Live MVP)**
+A full-stack artist website with an easy-to-use CMS allowing the artist to update gigs independently.  
+- Built with React + TypeScript + Supabase  
+- Internationalization (FI/EN)  
+- Zero-maintenance architecture  
+- Positive real-world client feedback  
+🔗 Repo: https://github.com/aj-kivimaki/jpx
 
 ---
+
+### 🔵 **Au2mate — Vehicle Marketplace (Team Project)**
+Full backend for a vehicle marketplace with authentication, payments, and AWS infrastructure.  
+- Node.js + Express + Prisma  
+- AWS RDS (MySQL), Cognito, OAuth  
+- PayPal integration  
+- Docker + AWS deployment  
+🔗 Showcase: https://github.com/aj-kivimaki/au2mate-showcase
+
+---
+
+### 🟠 **Al Corte — E-Commerce Platform (Team Project)**
+Customer-style React + Redux project for a Colombian meat shop.  
+- Shopping cart + order form  
+- AWS Lambda email flow  
+- Firebase hosting  
+🔗 Showcase: https://github.com/aj-kivimaki/alcorte-showcase
+
+---
+
+## 🤝 Collaboration & Work Style
+- Communicative and friendly  
+- Agile (daily standups, sprints)  
+- Comfortable with remote teamwork  
+- Always researching, experimenting, and improving  
+
+---
+
+## 📫 Contact  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj.kivimaki@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aj-kivimaki/)
+
+Thanks for visiting!
