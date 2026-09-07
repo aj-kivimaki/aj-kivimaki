@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Atte Kivimäki
 
 ### Software Developer
-### Knowledge Systems • AI Workflows • Game Audio
+### Full Stack Development • AI Workflows • Game Audio
 
-🇫🇮 Finland • Open to remote & international opportunities
-
-I'm a software developer with a background in music, building systems that improve how people work.
+I'm a software developer with a background in music.
 
 My main project is **AJ-OS** — a personal operating system that maintains an evolving working context by turning everyday work into durable knowledge.
 
